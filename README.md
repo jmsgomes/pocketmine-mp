@@ -5,7 +5,7 @@
 * `3.4.3`, `3.4`, [(3.4/Dockerfile)](https://github.com/crscheid/pocketmine-mp/blob/master/3.4/Dockerfile)
 * `3.5.7`, `3.5` [(3.5/Dockerfile)](https://github.com/crscheid/pocketmine-mp/blob/master/3.5/Dockerfile)
 * `3.6.1`, `3.6` [(3.6/Dockerfile)](https://github.com/crscheid/pocketmine-mp/blob/master/3.6/Dockerfile)
-* `3.8.1`, `3.8`, `latest` [(3.8/Dockerfile)](https://github.com/crscheid/pocketmine-mp/blob/master/3.8/Dockerfile)
+* `latest` [(3.8/Dockerfile)](https://github.com/crscheid/pocketmine-mp/blob/master/3.8/Dockerfile)
 
 # [![PocketMine-MP](http://cdn.pocketmine.net/img/PocketMine-MP-h.png)](https://pmmp.io)
 
